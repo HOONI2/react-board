@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          병기테스트 마지막        </a>
+          병기테스트 마지막   ss     </a>
       </header>
     </div>
   );
